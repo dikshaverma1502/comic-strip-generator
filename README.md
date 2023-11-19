@@ -12,7 +12,8 @@ The Comic Strip Generator is a web application designed to allow users to create
 - A user-friendly form allows users to input text for 10 comic panels.
 - The UI is optimized for both desktop and mobile browsers to ensure a seamless experience for the users regardless of any device that they are using.
   
-  ![Screenshot (124)](https://github.com/dikshaverma1502/Dashtoon-comic-creater/assets/94672326/ee3000e7-a1fb-49b8-8bcc-da0c65f576d3)
+ ![Screenshot (124)](https://github.com/dikshaverma1502/comic-strip-generator/assets/94672326/7b9c5b78-c8e3-48f2-90cc-7a44ab0e57b0)
+ 
 
 
 ### 2. API Integration
@@ -30,7 +31,8 @@ The Comic Strip Generator is a web application designed to allow users to create
 - The HTML2Canvas library is used to capture and download comic strip images on the client side.
 - The application is hosted on Cloudinary, ensuring reliable and scalable hosting for sharing and serving the generated comic panels.
   
-![Screenshot (125)](https://github.com/dikshaverma1502/Dashtoon-comic-creater/assets/94672326/afd6d861-5457-4245-bce2-bdbd9c1ce475)
+![Screenshot (125)](https://github.com/dikshaverma1502/comic-strip-generator/assets/94672326/9379fb81-04fa-4052-aa78-21f5acfe6611)
+
 
 ## Getting Started
 
