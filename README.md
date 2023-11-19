@@ -41,5 +41,5 @@ To run the Comic Strip Generator locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/dikshaverma1502/Dashtoon-comic-creater.git
-cd Dashtoon-comic-creater
+git clone https://github.com/dikshaverma1502/comic-strip-generator
+cd comic-strip-generator
